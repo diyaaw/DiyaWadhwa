@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Diya!
 
-💻 I'm a budding developer passionate about Web3, Blockchain, and Frontend Development.
+💻 I'm a budding developer passionate about Blockchain, and Frontend Development and ML.
 
 🌱 Currently learning:
 - DSA in C++
